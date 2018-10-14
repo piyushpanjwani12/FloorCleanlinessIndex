@@ -1,6 +1,6 @@
 -> The technology used is Opencv with java
 
--> The input images are given.(f1.jpg, f2.jpg) / (flr1.jpg, flr3.jpg), etc) For calculating the index, we need references. The jar file initially requires a reference image 1.) Image of a clean flower(let "f1.jpg"). Then using this image, a reference is made. For calculating the cleanliness, a new image is put in the software, and the cleanliness of the floor in it is is calculated and presented.
+-> The input images are given.(f1.jpg, f2.jpg) / (flr1.jpg, flr2.jpg), etc) For calculating the index, we need references. The jar file initially requires a reference image 1.) Image of a clean floor(let "f1.jpg"). Then using this image, a reference is made. For calculating the cleanliness, a new image is put in the software, and the cleanliness of the floor in it is is calculated and presented.
 
 -> The output is generated in the form of a slider. Also a cleanliness percent is reported.
 
